@@ -1,1 +1,27 @@
 /* Style.css for Broadway */
+/* Body */
+body {
+font-family: helvetica, sans-serif;
+text-align: center;
+}
+
+/* Header */
+#header {
+  color: white;
+  background-image: url("./resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  font-weight: bold;
+}
+#header h1 {
+  font-size: 70px;
+}
+#header ul {
+  list-style-type: none;
+  margin:  0;
+  padding: 0;
+}
+#header li {
+  margin: 10px 0;
+  font-size: 18px;
+}
