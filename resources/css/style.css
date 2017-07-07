@@ -8,7 +8,7 @@ text-align: center;
 /* Header */
 #header {
   color: white;
-  background-image: url("../images/the-flatiron-building.png");
+  background-image: url("https://ndkrieger.github.io/broadway/resources/images/the-flatiron-building.png");
   font-weight: bold;
 }
 #header h1 {
